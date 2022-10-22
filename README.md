@@ -22,8 +22,10 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![](https://img.shields.io/badge/-SCSS-ff69b4?style=for-the-badge)
 ![](https://img.shields.io/badge/Webpack-593D88?style=for-the-badge&logo=webpack&logoColor=white)
+![](https://img.shields.io/badge/-Figma-blueviolet?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/-Jira-green?style=for-the-badge&logo=jira&logoColor=white)
+![](https://img.shields.io/badge/-WorPress-blue?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ## Моя активность
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeniaRomanenia&theme=default)](https://git.io/streak-stats)
