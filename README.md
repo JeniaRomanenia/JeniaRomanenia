@@ -4,11 +4,12 @@
 👩‍💻 Ищу работу (работа/стажировка) <br />
 🎯 Претендую на позицию Junior Frontend-разработчика <br />
 📝 Изучаю React, Vue <br />
+📝 Имею образования СЕО-специалиста () и QA Engineer [QA ACADEMY](https://www.linkedin.com/in/jeniaramanenia/overlay/1635486031775/single-media-viewer/) <br />
 🔥 Я хочу быть частью крутой команды преданных своему делу профессионалов <br />
 💪 Я уверен, что моя дотошность, образное и аналитическое мышление помогут мне найти свое место в IT <br />
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/ivkrylova) 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/IVKrylova)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/jeniaramanenia/) 
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/jeniaromanenia)
 ![](https://img.shields.io/badge/email-jenia02041985%40tut.by-orange)
 ![](https://www.codewars.com/users/rsschool_33f5dde9dc1de367/badges/micro)
 <br />
